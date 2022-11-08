@@ -1,7 +1,7 @@
 # honest calculator by jetbrains
  quite complex project
 
-
+```
 
 # start
 memory = 0
@@ -166,3 +166,4 @@ while True:
             break
         elif answer == 'n':
             exit(0)
+```
